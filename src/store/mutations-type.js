@@ -1,0 +1,7 @@
+export const FETCH_DATA = 'fetchData'
+export const SET_SHOP_NUMBER = 'setShopNumber'
+export const SELECTED_ALL = 'selectedAll'
+export const SET_SINGLE_SELECTED = 'setSingleSelected'
+export const JUDGE_SELECT_ALL = 'judgeSelectAll'
+export const GET_PRICE_TOTAL = 'getPriceTotal'
+export const DELETE_SHOP = 'deleteShop'
